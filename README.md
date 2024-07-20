@@ -1,5 +1,5 @@
 # Nomachine
 
 '''sh
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+$ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 '''
